@@ -4,11 +4,7 @@ This repository provides a guide to setting up my development machine for data-r
 
 ## 📱 Supported Platforms
 
-- macOS
-
-## 📝 macOS Setup Guide
-
-For detailed instructions on setting up a new **macOS** machine, refer to the [macOS Setup Guide](/macOS-m4-pro/macOS-m4-pro-README.md). This guide includes steps for configuring display settings, trackpad preferences, installing essential apps, and setting up your development environment.
+- [macOS](/macOS-m4-pro/macOS-m4-pro-README.md)
 
 ## ⚙️ Setup Steps Overview
 
