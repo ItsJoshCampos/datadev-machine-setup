@@ -29,6 +29,10 @@ A personal checklist for setting up a new MacBook for data development work.
 ### iTerm2
 - [ ] Download and install from [iTerm2 Downloads](https://iterm2.com/downloads.html)
 
+### Docker Desktop - miniKube
+- [ ] Download and install from [Docker Downloads](https://docs.docker.com/desktop/setup/install/mac-install/)
+- [ ] Install [miniKube](https://minikube.sigs.k8s.io/docs/start/?arch=%2Fmacos%2Fx86-64%2Fstable%2Fbinary+download)
+
 ---
 
 ## 🔐 SSH & GitHub
