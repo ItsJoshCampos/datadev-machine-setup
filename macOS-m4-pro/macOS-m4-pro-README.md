@@ -31,6 +31,8 @@ A personal checklist for setting up a new MacBook for data development work.
 
 ### Docker Desktop - miniKube
 - [ ] Download and install from [Docker Downloads](https://docs.docker.com/desktop/setup/install/mac-install/)
+  - [ ] User Recommended Settings (Will prompt for password)
+  - [ ] May prompt for install of [Rosetta for Apple Silicon compatibility](https://support.apple.com/en-us/102527). Accept Install.
 - [ ] Install [miniKube](https://minikube.sigs.k8s.io/docs/start/?arch=%2Fmacos%2Fx86-64%2Fstable%2Fbinary+download)
 
 ---
