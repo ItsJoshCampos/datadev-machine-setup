@@ -29,6 +29,9 @@ A personal checklist for setting up a new MacBook for data development work.
 ### iTerm2
 - [ ] Download and install from [iTerm2 Downloads](https://iterm2.com/downloads.html)
 
+### JetBrains DataGrip
+-[ ] Download and install from [JetBrains Downloads](https://www.jetbrains.com/datagrip/download/#section=mac)
+
 ---
 
 ## 🔐 SSH & GitHub
